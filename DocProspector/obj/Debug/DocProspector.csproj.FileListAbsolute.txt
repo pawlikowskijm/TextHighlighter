@@ -1,0 +1,9 @@
+E:\Csharp\DocProspector\DocProspector\bin\Debug\DocProspector.exe.config
+E:\Csharp\DocProspector\DocProspector\bin\Debug\DocProspector.exe
+E:\Csharp\DocProspector\DocProspector\bin\Debug\DocProspector.pdb
+E:\Csharp\DocProspector\DocProspector\obj\Debug\DocProspector.csprojResolveAssemblyReference.cache
+E:\Csharp\DocProspector\DocProspector\obj\Debug\DocProspector.Properties.Resources.resources
+E:\Csharp\DocProspector\DocProspector\obj\Debug\DocProspector.csproj.GenerateResource.Cache
+E:\Csharp\DocProspector\DocProspector\obj\Debug\DocProspector.exe
+E:\Csharp\DocProspector\DocProspector\obj\Debug\DocProspector.pdb
+E:\Csharp\DocProspector\DocProspector\obj\Debug\DocProspector.TextHighlighter.resources
